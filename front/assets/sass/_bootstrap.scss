@@ -1,0 +1,22 @@
+@import 'bootstrap/scss/functions';
+
+// Default variable overrides
+$theme-colors: (
+  "primary": #807f1b,
+  "danger": #F56C6C
+);
+
+$input-btn-focus-width: 0px;
+$input-btn-focus-color: transparent;
+$input-btn-focus-box-shadow: none;
+
+// Required
+@import 'bootstrap/scss/variables';
+@import 'bootstrap/scss/mixins';
+
+@import 'bootstrap/scss/reboot';
+@import 'bootstrap/scss/buttons';
+@import 'bootstrap/scss/button-group';
+@import 'bootstrap/scss/tables';
+@import 'bootstrap/scss/pagination';
+@import 'bootstrap/scss/transitions';

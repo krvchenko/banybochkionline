@@ -1,0 +1,48 @@
+$noize-bg: url('~assets/i/noize-bg.webp?data');
+
+$breakpoints: (
+	'mobile': 480px,
+	'tablet': 768px,
+	'laptop': 992px,
+	'desktop': 1280px,
+);
+@mixin mq($width, $type: max) {
+	@if map_has_key($breakpoints, $width) {
+		$width: map_get($breakpoints, $width);
+		@if $type == max {
+			$width: $width - 1px;
+		}
+		@media only screen and (#{$type}-width: $width) {
+			@content;
+		}
+	}
+}
+
+$paddings: (
+	'mobile': 15px,
+	'laptop': 15px,
+	'tablet': 15px,
+	'desktop': 15px,
+);
+
+@mixin paddings($type) {
+	@if map_has_key($paddings, $type) {
+		$padding: map_get($paddings, $type);
+		padding-left: $padding;
+		padding-right: $padding;
+	}
+}
+
+@mixin hide-scroll() {
+	scrollbar-width: none;
+	-ms-overflow-style: none;
+	&::-webkit-scrollbar {
+		width: 0; /* Remove scrollbar space */
+		height: 0;
+		background: transparent; /* Optional: just make scrollbar invisible */
+	}
+}
+
+@mixin noize-bg() {
+	background: $noize-bg repeat 50%;
+}

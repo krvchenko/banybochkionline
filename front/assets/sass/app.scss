@@ -1,0 +1,164 @@
+/*
+ * Imports
+ */
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&display=swap');
+@import 'bootstrap';
+@import 'glightbox/dist/css/glightbox.css';
+
+:root {
+	--vs-colors--lightest: #c9c9c9;
+	--vs-colors--dark: #555;
+
+	--vs-font-size: 14px;
+	--vs-line-height: 26px;
+
+	--vs-dropdown-option--active-bg: #807f1b;
+
+	--vs-dropdown-box-shadow: 0px 0px 20px rgb(128, 127, 27, 20%);
+
+	--vs-selected-border-color: #807f1b;
+}
+
+.vs__dropdown-menu {
+	border-color: #807f1b;
+}
+
+.vs--open {
+	.vs__dropdown-toggle {
+		box-shadow: 0px 0px 20px rgb(128, 127, 27, 20%);
+		border-color: #807f1b;
+	}
+}
+
+
+/*
+ * Defaults
+ */
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 16px;
+	line-height: 1.42857143;
+	font-family: 'PT Sans', sans-serif;
+}
+
+a {
+	color: #807F1B;
+	text-decoration: underline;
+	&:hover,
+	&:active,
+	&:focus {
+		color: #807F1B;
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 700;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+h2 {
+	font-size: 28px;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+h4 {
+	font-size: 20px;
+}
+
+h5 {
+	font-size: 18px;
+}
+
+h6 {
+	font-size: 16px;
+}
+
+h1, h2, h3, h4 {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+ul, ol {
+	margin-bottom: 20px;
+	padding-left: 17px;
+}
+
+table {
+	width: 100%;
+}
+
+.btn,
+.btn:visited,
+.btn:link {
+	text-decoration: none;
+}
+
+/*
+ * Layout
+ */
+.container {
+	max-width: 1280px;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+
+/*
+ * Transitions
+ */
+// Fade (Page)
+.fade-enter-active,
+.fade-leave-active {
+	transition: opacity .5s;
+}
+.fade-enter,
+.fade-leave-to {
+	opacity: 0;
+}
+
+// Fade (Layout)
+.layout-enter-active,
+.layout-leave-active {
+	transition: opacity 0.5s;
+}
+.layout-enter,
+.layout-leave-active {
+	opacity: 0;
+}
+
+// Slide
+.slide-enter-active,
+.slide-leave-active {
+	transition: max-height 0.5s ease-in-out;
+}
+
+.slide-enter-to,
+.slide-leave {
+	overflow: hidden;
+	max-height: 500px;
+}
+
+.slide-enter,
+.slide-leave-to {
+	overflow: hidden;
+	max-height: 0;
+}
+
+/*
+ * Other
+ */
+.invalid-feedback {
+	margin-top: 5px;
+	font-size: 12px;
+	color: #F56C6C;
+}
+
+.hidden {
+	display: none;
+}

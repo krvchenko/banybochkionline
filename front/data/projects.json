@@ -1,0 +1,572 @@
+{
+    "id": 16,
+    "parent_id": null,
+    "title": "Проекты",
+    "created_at": "2023-10-05 08:51:16",
+    "updated_at": "2023-10-05 08:51:16",
+    "slug": "projects",
+    "nominative": "Проекты",
+    "accusative": "Проекты",
+    "meta_title": "Мобильные бани бочки: Наши Проекты на сайте banybochkionline.ru",
+    "meta_description": "Изучайте наши проекты мобильных бань бочек и находите идеальное решение для вашего спа-отдыха на природе. Посмотрите наши работы и дайте воплотить свои мечты в жизнь с нами.",
+    "meta_keywords": "мобильные бани бочки, проекты, под ключ, цена, купить, отдых, работы, решение",
+    "description": "<p>Наши проекты бань бочек - это готовые решения для вашего идеального отдыха и комфортных рабочих моментов. Мы предлагаем вам возможность купить мечту о собственной бане бочке под ключ.</p><h2>Почему выбирают нас:</h2><ul><li>Профессиональные проекты: Наши инженеры и дизайнеры разработали множество уникальных проектов, которые удовлетворяют самым высоким стандартам качества и комфорта.</li><li>Привлекательная цена: Мы предлагаем конкурентоспособные цены на все наши проекты. Инвестируйте в свой комфорт и благополучие по разумной цене.</li><li>Все включено: Мы заботимся о каждой детали вашего проекта. Наши бани бочки \"под ключ\" готовы к использованию сразу после установки.</li></ul><p>Не упустите шанс превратить свои мечты в реальность! Наши мобильные бани бочки - это роскошный отдых и выгодное вложение в будущее. Подарите себе и своим близким неповторимые моменты радости и релаксации.</p>",
+    "published": 1,
+    "products": [
+        {
+            "id": 1,
+            "title": "Мини",
+            "slug": "mini",
+            "price": 122000,
+            "total_length": 200,
+            "steam_room_length": 180,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-mini",
+                "nominative": "Баня бочка мини"
+            },
+            "image": {
+                "filename": "1781f5a6782fee27dcb4d9bb566016c1.jpeg"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Мини с козырьком",
+            "slug": "mini-s-kozyr-kom",
+            "price": 127000,
+            "total_length": 250,
+            "steam_room_length": 180,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-mini",
+                "nominative": "Баня бочка мини"
+            },
+            "image": {
+                "filename": "a71b1c6becaa038fc88c2c50b36f9adc.jpeg"
+            }
+        },
+        {
+            "id": 3,
+            "title": "Мини с крыльцом",
+            "slug": "mini-s-kryl-com",
+            "price": 130000,
+            "total_length": 250,
+            "steam_room_length": 180,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-mini",
+                "nominative": "Баня бочка мини"
+            },
+            "image": {
+                "filename": "e5f7f9d0003a1d7131a49e9c99df0ea4.jpeg"
+            }
+        },
+        {
+            "id": 4,
+            "title": "Стандарт",
+            "slug": "standart",
+            "price": 171000,
+            "total_length": 300,
+            "steam_room_length": 180,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-standart",
+                "nominative": "Баня бочка стандарт"
+            },
+            "image": {
+                "filename": "351352edadead963003593ed62a2e1ac.jpeg"
+            }
+        },
+        {
+            "id": 5,
+            "title": "Стандарт с козырьком",
+            "slug": "standart-s-kozyr-kom",
+            "price": 178000,
+            "total_length": 350,
+            "steam_room_length": 180,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-standart",
+                "nominative": "Баня бочка стандарт"
+            },
+            "image": {
+                "filename": "c36012ef20fe3636293cc9fa8b145c9a.jpg"
+            }
+        },
+        {
+            "id": 6,
+            "title": "Стандарт  с крыльцом",
+            "slug": "standart-s-kryl-com",
+            "price": 182000,
+            "total_length": 350,
+            "steam_room_length": 180,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-standart",
+                "nominative": "Баня бочка стандарт"
+            },
+            "image": {
+                "filename": "c942fc41e639c89ae5d6e5988a7f02bf.jpg"
+            }
+        },
+        {
+            "id": 7,
+            "title": "Компакт",
+            "slug": "kompakt",
+            "price": 182000,
+            "total_length": 350,
+            "steam_room_length": 200,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-kompakt",
+                "nominative": "Баня бочка компакт"
+            },
+            "image": {
+                "filename": "679e9c13b3fa9cbeb9804e5ecc78c1bf.jpg"
+            }
+        },
+        {
+            "id": 8,
+            "title": "Компакт  с козырьком",
+            "slug": "kompakt-s-kozyr-kom",
+            "price": 187000,
+            "total_length": 400,
+            "steam_room_length": 200,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-kompakt",
+                "nominative": "Баня бочка компакт"
+            },
+            "image": {
+                "filename": "efbf03e8d21f520cf362144e5861cd03.jpeg"
+            }
+        },
+        {
+            "id": 9,
+            "title": "Компакт  с крыльцом",
+            "slug": "kompakt-s-kryl-com",
+            "price": 191000,
+            "total_length": 400,
+            "steam_room_length": 200,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-kompakt",
+                "nominative": "Баня бочка компакт"
+            },
+            "image": {
+                "filename": "73cdd5f947cf9f67c6ecf83aaa15b83b.jpg"
+            }
+        },
+        {
+            "id": 10,
+            "title": "Люкс",
+            "slug": "lyuks",
+            "price": 194000,
+            "total_length": 400,
+            "steam_room_length": 220,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-lyuks",
+                "nominative": "Баня бочка люкс"
+            },
+            "image": {
+                "filename": "144587b978033bab40bf2069cee36232.jpeg"
+            }
+        },
+        {
+            "id": 11,
+            "title": "Люкс  с козырьком",
+            "slug": "lyuks-s-kozyr-kom",
+            "price": 198000,
+            "total_length": 450,
+            "steam_room_length": 220,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-lyuks",
+                "nominative": "Баня бочка люкс"
+            },
+            "image": {
+                "filename": "ab9c33f748bb1064ffc33dd6ea9aaafd.jpeg"
+            }
+        },
+        {
+            "id": 12,
+            "title": "Люкс с крыльцом",
+            "slug": "lyuks-s-kryl-com",
+            "price": 205000,
+            "total_length": 450,
+            "steam_room_length": 220,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-lyuks",
+                "nominative": "Баня бочка люкс"
+            },
+            "image": {
+                "filename": "f51230654d1b25a0ffd831a7bd1023bc.jpeg"
+            }
+        },
+        {
+            "id": 13,
+            "title": "Супер-люкс",
+            "slug": "super-lyuks",
+            "price": 249000,
+            "total_length": 600,
+            "steam_room_length": 220,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-superlyuks",
+                "nominative": "Баня бочка супер люкс"
+            },
+            "image": {
+                "filename": "9ffbf8943c6c7edcd8066be170cdd244.jpeg"
+            }
+        },
+        {
+            "id": 14,
+            "title": "Супер-люкс 2",
+            "slug": "super-lyuks-2",
+            "price": 249000,
+            "total_length": 600,
+            "steam_room_length": 220,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-superlyuks",
+                "nominative": "Баня бочка супер люкс"
+            },
+            "image": {
+                "filename": "da23b7af0b124d4de70fb1c0f6f55cb3.jpg"
+            }
+        },
+        {
+            "id": 15,
+            "title": "Супер-люкс 3",
+            "slug": "super-lyuks-3",
+            "price": 249000,
+            "total_length": 600,
+            "steam_room_length": 220,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-superlyuks",
+                "nominative": "Баня бочка супер люкс"
+            },
+            "image": {
+                "filename": "65454685e60f100a043ac105bc9d87aa.jpg"
+            }
+        },
+        {
+            "id": 16,
+            "title": "Мини",
+            "slug": "mini",
+            "price": 134000,
+            "total_length": 210,
+            "steam_room_length": 180,
+            "category": {
+                "slug": "bani-kvadro-bochki",
+                "nominative": "Баня квадробочка"
+            },
+            "subCategory": {
+                "slug": "bani-kvadro-bochki-mini",
+                "nominative": "Баня квадро бочка мини"
+            },
+            "image": {
+                "filename": "b8578fb3fe27362d644eff0c0f2cbbbf.png"
+            }
+        },
+        {
+            "id": 17,
+            "title": "Стандарт",
+            "slug": "standart",
+            "price": 187000,
+            "total_length": 300,
+            "steam_room_length": 180,
+            "category": {
+                "slug": "bani-kvadro-bochki",
+                "nominative": "Баня квадробочка"
+            },
+            "subCategory": {
+                "slug": "bani-kvadro-bochki-standart",
+                "nominative": "Баня квадро бочка стандарт"
+            },
+            "image": {
+                "filename": "5b053016298b3867ae6dd16b6377bcfe.jpg"
+            }
+        },
+        {
+            "id": 18,
+            "title": "Люкс вход с боку",
+            "slug": "lyuks-vhod-s-boku",
+            "price": 217000,
+            "total_length": 400,
+            "steam_room_length": 220,
+            "category": {
+                "slug": "bani-kvadro-bochki",
+                "nominative": "Баня квадробочка"
+            },
+            "subCategory": {
+                "slug": "bani-kvadro-bochki-lyuks",
+                "nominative": "Баня квадро бочка люкс"
+            },
+            "image": {
+                "filename": "dc31e72e1e453b1115b41343e974a7f3.jpg"
+            }
+        },
+        {
+            "id": 19,
+            "title": "Люкс вход с торца",
+            "slug": "lyuks-vhod-s-torca",
+            "price": 217000,
+            "total_length": 400,
+            "steam_room_length": 220,
+            "category": {
+                "slug": "bani-kvadro-bochki",
+                "nominative": "Баня квадробочка"
+            },
+            "subCategory": {
+                "slug": "bani-kvadro-bochki-lyuks",
+                "nominative": "Баня квадро бочка люкс"
+            },
+            "image": {
+                "filename": "24b5d67521b70cbcf6d20d1a08f05bdd.jpeg"
+            }
+        },
+        {
+            "id": 20,
+            "title": "Супер-люкс вход с боку",
+            "slug": "super-lyuks-vhod-s-boku",
+            "price": 266000,
+            "total_length": 500,
+            "steam_room_length": 220,
+            "category": {
+                "slug": "bani-kvadro-bochki",
+                "nominative": "Баня квадробочка"
+            },
+            "subCategory": {
+                "slug": "bani-kvadro-bochki-superlyuks",
+                "nominative": "Баня квадро бочка супер люкс"
+            },
+            "image": {
+                "filename": "8058bbc09a7a2c9c0e437f5d79d30bbb.jpeg"
+            }
+        },
+        {
+            "id": 21,
+            "title": "Супер-люкс вход с торца",
+            "slug": "super-lyuks-vhod-s-torca",
+            "price": 266000,
+            "total_length": 500,
+            "steam_room_length": 220,
+            "category": {
+                "slug": "bani-kvadro-bochki",
+                "nominative": "Баня квадробочка"
+            },
+            "subCategory": {
+                "slug": "bani-kvadro-bochki-superlyuks",
+                "nominative": "Баня квадро бочка супер люкс"
+            },
+            "image": {
+                "filename": "5cff489ceca759a2688972f2452153ed.png"
+            }
+        },
+        {
+            "id": 22,
+            "title": "Эксклюзив",
+            "slug": "eksklyuziv",
+            "price": 285000,
+            "total_length": 600,
+            "steam_room_length": 220,
+            "category": {
+                "slug": "bani-kvadro-bochki",
+                "nominative": "Баня квадробочка"
+            },
+            "subCategory": {
+                "slug": "bani-kvadro-bochki-eksklyuziv",
+                "nominative": "Баня квадро бочка эксклюзив"
+            },
+            "image": {
+                "filename": "60137a2eeea9fcec9169e9f1dbd88f40.jpg"
+            }
+        },
+        {
+            "id": 27,
+            "title": "Либерти",
+            "slug": "liberti",
+            "price": 275000,
+            "total_length": 450,
+            "steam_room_length": 240,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": null,
+            "image": {
+                "filename": "28e4eeb07418924e61ab7708b0609d86.jpeg"
+            }
+        },
+        {
+            "id": 28,
+            "title": "двойная для холодной и горячей воды",
+            "slug": "dvoynaya-dlya-holodnoy-i-goryachey-vody",
+            "price": 110000,
+            "total_length": 460,
+            "steam_room_length": 0,
+            "category": {
+                "slug": "kupeli",
+                "nominative": "Купель"
+            },
+            "subCategory": {
+                "slug": "kupeli-standart",
+                "nominative": "Купель стандарт"
+            },
+            "image": {
+                "filename": "a37b157910196c07c736072032495bc6.jpg"
+            }
+        },
+        {
+            "id": 29,
+            "title": "Купель с печкой для прогрева воды",
+            "slug": "kupel-s-pechkoy-dlya-progreva-vody",
+            "price": 70000,
+            "total_length": 180,
+            "steam_room_length": 0,
+            "category": {
+                "slug": "kupeli",
+                "nominative": "Купель"
+            },
+            "subCategory": {
+                "slug": "kupeli-mini",
+                "nominative": "Купель мини"
+            },
+            "image": {
+                "filename": "b8a879808a526bdfa127c3445dfef6d6.jpg"
+            }
+        },
+        {
+            "id": 31,
+            "title": "Викинг",
+            "slug": "viking",
+            "price": 285000,
+            "total_length": 600,
+            "steam_room_length": 2200,
+            "category": {
+                "slug": "bani-kvadro-bochki",
+                "nominative": "Баня квадробочка"
+            },
+            "subCategory": null,
+            "image": {
+                "filename": "d5be4542bef495f6ff9f1893d163f804.jpeg"
+            }
+        },
+        {
+            "id": 32,
+            "title": "Стандарт с козырьком на прицепе",
+            "slug": "standart-s-kozyr-kom-na-pricepe",
+            "price": 283000,
+            "total_length": 350,
+            "steam_room_length": 180,
+            "category": {
+                "slug": "bani-bochki",
+                "nominative": "Баня бочка"
+            },
+            "subCategory": {
+                "slug": "bani-bochki-standart",
+                "nominative": "Баня бочка стандарт"
+            },
+            "image": {
+                "filename": "fab976a1315b4b3431e8faa398b390e1.jpeg"
+            }
+        }
+    ],
+    "childrens": [
+        {
+            "id": 1,
+            "parent_id": 16,
+            "title": "Бани бочки",
+            "created_at": "2017-05-19 01:25:30",
+            "updated_at": "2019-12-30 13:47:11",
+            "slug": "bani-bochki",
+            "nominative": "Баня бочка",
+            "accusative": "Баню бочку",
+            "meta_title": "Бани бочки купить в Москве под ключ от производителя недорого с доставкой проекты и цены на сайте banybochkionline.ru",
+            "meta_description": "Бани бочки под ключ купить с доставкой по Москве для дачи и частных домов по привлекательной цене. Бани бочки недорого от производителя, цены и проекты на сайте banybochkionline.ru",
+            "meta_keywords": "бани бочки, купить, москва, под ключ, от производителя, недорого, доставка, проекты, цена, сайт, для дачи, для частных домов",
+            "description": "<p>Вы мечтаете о собственной бане для полного расслабления и восстановления сил? Наша компания предлагает вам уникальную возможность приобрести бани-бочки \"под ключ\" от производителя по невероятно доступной цене прямо в Москве.<h2>Наши преимущества:</h2><ul><li>Для дачи и частных домов: Наши бани-бочки идеально подходят как для загородных дач, так и для частных домов. С их помощью вы сможете создать идеальное место для отдыха.<li>Проекты под заказ: Наши профессиональные дизайнеры и инженеры создадут для вас уникальный проект, учитывая все ваши пожелания и особенности участка.<li>Комплексный подход: Наши услуги включают не только проектирование и изготовление, но и удобную доставку и монтаж на вашем участке. Мы заботимся о вашем комфорте с самого начала до конца процесса.<li>Доставка по Москве и области: Не важно, где находится ваш участок — мы осуществляем доставку бани-бочки в Москве и области. У нас нет границ, когда речь идет о вашем комфорте.<li>Недорого и доступно: Мы предлагаем невероятно выгодные цены на бани-бочки от производителя. Приобретая у нас, вы экономите, не переплачивая посредникам.</ul><p>Используйте возможность приобрести баню-бочку для дачи или частного дома от надежного производителя!",
+            "published": 1
+        },
+        {
+            "id": 2,
+            "parent_id": 16,
+            "title": "Бани квадробочки",
+            "created_at": "2017-05-19 01:25:41",
+            "updated_at": "2019-12-30 13:46:52",
+            "slug": "bani-kvadro-bochki",
+            "nominative": "Баня квадробочка",
+            "accusative": "Баню квадробочку",
+            "meta_title": "Бани квадро бочки купить в Москве под ключ от производителя недорого с доставкой проекты и цены на сайте banybochkionline.ru",
+            "meta_description": "Бани квадро бочки под ключ купить с доставкой по Москве для дачи и частных домов по доступной цене. Бани квадро бочки недорого от производителя, цены и проекты на сайте banybochkionline.ru",
+            "meta_keywords": "Бани квадро бочки, купить, москва, под ключ, от производителя, недорого, доставка, проекты, цена, сайт, для дачи, для частных домов",
+            "description": "<p>Ищете идеальное решение для отдыха и заботы о своем здоровье вдали от городской суеты? Хотите приобрести баню под ключ в Москве, которая станет настоящим жемчужиной вашей дачи или частного дома? Тогда наша коллекция бань квадро бочек создана специально для вас!</p><p>Почему \"Квадро Бочки\" - это именно то, что вам нужно:</p><ul><li>Недорого и доступно: Мы ценим каждого клиента и предоставляем лучшее соотношение цена-качество. У нас вы найдете бани на любой бюджет.</li><li>Быстрая доставка: Мы доставляем бани \"Квадро Бочки\" в Москве и ближайшие районы, чтобы вы могли начать наслаждаться своим уютным уголком максимально быстро.</li><li>Проекты \"под ключ\": Мы предоставляем услуги проектирования и строительства бань \"под ключ\", чтобы вы могли доверить весь процесс нам и наслаждаться результатом.</li><li>Для дачи и частных домов: Наши бани идеально подходят как для дачных участков, так и для частных домов. У вас всегда будет место для покоя и релакса.</li></ul><p>Успокойте свой ум, подарите здоровье своему телу и создайте незабываемые моменты отдыха вместе с банями квадро бочками. Свяжитесь с нами сегодня, чтобы начать свой путь к гармонии и релаксу в лучших условиях!</p>",
+            "published": 1
+        },
+        {
+            "id": 3,
+            "parent_id": 16,
+            "title": "Купели",
+            "created_at": "2017-10-24 05:41:19",
+            "updated_at": "2019-12-30 13:47:00",
+            "slug": "kupeli",
+            "nominative": "Купель",
+            "accusative": "Купель",
+            "meta_title": "Купели купить в Москве под ключ с подогревом от производителя недорого с доставкой проекты и цены на сайте banybochkionline.ru",
+            "meta_description": "Купели под ключ купить с доставкой по Москве для дачи и частных домов по доступной цене. Купели с подогревом недорого от производителя, цены и проекты на сайте banybochkionline.ru",
+            "meta_keywords": "Купели, купить, москва, под ключ, от производителя, недорого, доставка, проекты, цена, сайт, для дачи, для частных домов, с подогревом",
+            "description": "<p>Вы мечтаете о собственной купели на даче или в частном доме? Вас интересует недорогая, но качественная продукция. Тогда вы попали по адресу!<p>Наша компания предоставляет вам уникальную возможность приобрести купель вашей мечты в Москве и области. Наш опыт и профессионализм позволяют нам предложить вам не только высококачественные купели, но и подготовить для вас индивидуальный проект, учитывающий все ваши пожелания.<h2>Наши преимущества:</h2><ul><li>Быстрая и надежная доставка по Москве и области.<li>Недорогие цены, доступные каждому.<li>Опция подогрева для полного расслабления.</ul><p>Мы гарантируем, что вы найдете идеальное решение для вашей дачи или частного дома! Купите купель под ключ от производителя уже сегодня, и расслабляйтесь и наслаждайтесь комфортом каждый день!</p>",
+            "published": 0
+        }
+    ],
+    "parent": null
+}

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin
+Disallow: /login
+Disallow: /register
+Clean-param: etext
+sitemap: https://banybochkionline.ru/sitemap.xml
+Host: https://banybochkionline.ru
